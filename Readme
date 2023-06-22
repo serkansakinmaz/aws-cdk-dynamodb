@@ -1,7 +1,10 @@
 Step 1 - Install CDK on Mac
 npm install -g aws-cdk
 
+Step 2 - Check whether the CDK installed
+cdk --version
 
-CDK installation Steps
-Step 1 - python -m pip install aws-cdk-lib
+
+
+https://towardsthecloud.com/install-aws-cdk
 
